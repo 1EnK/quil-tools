@@ -31,7 +31,7 @@ Run the script with the required `--path` argument, specifying the directory con
 
 ---
 
-# quil-manager (Archived)
+# quil-tools (Archived)
 
 Deployment & management script for Quilibrium v1.4.19
 
@@ -43,7 +43,7 @@ Deployment & management script for Quilibrium v1.4.19
     - [Make the Script Executable](#make-the-script-executable)
   - [Usage](#usage)
     - [Optional Arguments:](#optional-arguments)
-- [quil-manager (Archived)](#quil-manager-archived)
+- [quil-tools (Archived)](#quil-tools-archived)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation-1)
   - [Usage](#usage-1)
@@ -56,7 +56,7 @@ Deployment & management script for Quilibrium v1.4.19
 2.  Under the directory where the script is located, run the following command to give the script execution permission.
 
 ```shell
-chmod +x quil-manager.sh
+chmod +x quil_init.sh
 ```
 
 ## Usage
@@ -64,7 +64,7 @@ chmod +x quil-manager.sh
 1.  Run the script with the following command.
 
 ```shell
-./quil-manager.sh
+./quil_init.sh
 ```
 
 2.  Select the options following the below steps:
